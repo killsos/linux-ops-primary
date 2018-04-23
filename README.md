@@ -1,2 +1,3 @@
 # linux-ops-primary
-linux 老男人 
+linux 老男人 primary
+ 
